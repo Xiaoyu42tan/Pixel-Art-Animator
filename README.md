@@ -1,4 +1,4 @@
-#Pixel Art Animator Tool
+# Pixel Art Animator Tool
 
 **A tool to help you animate pixel art!**
 
